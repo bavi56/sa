@@ -1,0 +1,44 @@
+Partlist
+
+Exported from s_analyzer.sch at 04.02.18 13:12
+
+EAGLE Version 7.6.0 Copyright (c) 1988-2016 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device       Package  Library       Sheet
+
+C1       1M/50V         1M/50V       C_EL_2   #PaJa_C-el_2  1
+C2       1M/50V         1M/50V       C_EL_2   #PaJa_C-el_2  1
+C3       1M/50V         1M/50V       C_EL_2   #PaJa_C-el_2  1
+D1       1N914          1N4148DO35-7 DO35-7   diode         1
+D2       1N914          1N4148DO35-7 DO35-7   diode         1
+D3       1N914          1N4148DO35-7 DO35-7   diode         1
+D4       1N914          1N4148DO35-7 DO35-7   diode         1
+D5       1N914          1N4148DO35-7 DO35-7   diode         1
+D6       1N914          1N4148DO35-7 DO35-7   diode         1
+INPUT                   AK500/9      AK500/9  #Svorkovnice  1
+IO1      LM324          LM324        DIL14    #PaJa_31      1
+OK1      PC849          PC849        DIL16    optocoupler   1
+OK2      PC849          PC849        DIL16    optocoupler   1
+P1       10k            TRIMRPT10V   PT10V    #Trimry       1
+P2       10k            TRIMRPT10V   PT10V    #Trimry       1
+P3       10k            TRIMRPT10V   PT10V    #Trimry       1
+R1       1k2            R-EU_0204/5  0204/5   #Odpory       1
+R2       1k2            R-EU_0204/5  0204/5   #Odpory       1
+R3       1k2            R-EU_0204/5  0204/5   #Odpory       1
+R4       1k2            R-EU_0204/5  0204/5   #Odpory       1
+R5       1k2            R-EU_0204/5  0204/5   #Odpory       1
+R6       1k2            R-EU_0204/5  0204/5   #Odpory       1
+R7       1k2            R-EU_0204/5  0204/5   #Odpory       1
+R8       1k2            R-EU_0204/5  0204/5   #Odpory       1
+R9       100k           330K         R_7,5    #PaJa_R       1
+R10      100k           330K         R_7,5    #PaJa_R       1
+R11      100k           330K         R_7,5    #PaJa_R       1
+R12      300k           100K         R_7,5    #PaJa_R       1
+R13      300k           100K         R_7,5    #PaJa_R       1
+R14      300k           100K         R_7,5    #PaJa_R       1
+U$1      NANO           NANO         NANO     Arduino-clone 1
+X1       1503_09        1503_09      1503_09  con-lumberg   1
+X2       1503_09        1503_09      1503_09  con-lumberg   1
+X3       1503_09        1503_09      1503_09  con-lumberg   1
