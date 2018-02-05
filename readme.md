@@ -3,8 +3,39 @@
 * 8x 24V digitalni vstup
 * 3x analogový vstup pro SCT013
 
-![Alt tag](./img/sa.png?raw=true "Sestaveno")
+## Firmware
 
-![Alt tag](./img/sa2.png?raw=true "Strana soucastek")
+[arduino Nano](./sa.ino)
 
-![Alt tag](./img/sa3.png?raw=true "Strana spoju")
+Odkomentovat pro čitelný výpis do serial monitoru:
+```c++
+#define DEBUG
+```
+
+Seznam součástek [zde](./eagle/partlist.txt).
+
+![](./img/schema.png?raw=true "Schéma")
+
+![](./img/deska.png?raw=true "Deska")
+
+![](./img/sa2.png?raw=true "Strana soucastek")
+
+![](./img/sa3.png?raw=true "Strana spoju")
+
+![](./img/sa.png?raw=true "Sestaveno")
+
+[soubory pro egle](./eagle)
+
+## Zobrazení
+
+* ### processing [zde](./processing/sa_java.pde)
+
+![](./img/sa_java_scr.png?raw=true "Processing")
+
+* ### python [zde](./sa.pyw) (potřeba stáhnout modul [pygraf](../pygraf/pygraf.py) a mít nainstalovaný tkinter)
+
+![](./img/sa_scr.png?raw=true "SaPy")
+
+## Krabička
+
+[pro freeCad](./freeCad)
