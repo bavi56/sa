@@ -24,7 +24,6 @@ Seznam součástek [zde](./eagle/partlist.txt).
 
 ![](./img/sa.png?raw=true "Sestaveno")
 
-[soubory pro egle](./eagle)
 
 ## Zobrazení
 
@@ -32,10 +31,6 @@ Seznam součástek [zde](./eagle/partlist.txt).
 
 ![](./img/sa_java_scr.png?raw=true "Processing")
 
-* ### python [zde](./sa.pyw) (potřeba stáhnout modul [pygraf](../pygraf/pygraf.py) a mít nainstalovaný tkinter)
+* ### python [zde](./sa.pyw) (potřeba stáhnout modul [pygraf](../../pygraf/pygraf.py) a mít nainstalovaný tkinter)
 
 ![](./img/sa_scr.png?raw=true "SaPy")
-
-## Krabička
-
-[pro freeCad](./freeCad)
